@@ -1,2 +1,2 @@
 # fractals
-Fractal visualisations in R
+Create fractal art with R
